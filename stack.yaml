@@ -1,0 +1,7 @@
+resolver: lts-16.12
+packages:
+- webdriver-client
+- webdriver-api/webdriver-api
+nix:
+  packages:
+    - zlib

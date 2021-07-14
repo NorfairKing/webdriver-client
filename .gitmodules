@@ -1,0 +1,3 @@
+[submodule "webdriver-api/webdriver-spec"]
+	path = webdriver-api/webdriver-spec
+	url = git@github.com:aerokube/selenium-openapi.git
