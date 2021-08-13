@@ -1,0 +1,9 @@
+specification: webdriver-spec/selenium.yaml
+outputDir: webdriver-api
+packageName: webdriver-api
+moduleName: WebdriverAPI
+force: true
+doNotGenerateStackProject: true
+generateNixFiles: true
+convertToCamelCase: true
+propertyTypeSuffix: Prop
